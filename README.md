@@ -42,7 +42,7 @@ mutation {
   }
 }
 
--Edit:
+-Delete:
 
 mutation {
   deleteCustomer(id:"rytP7hhUW"){}
